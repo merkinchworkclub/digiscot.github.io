@@ -6,7 +6,8 @@ excerpt: Supporting local people to access online services and resources
 lead: Merkinch Partnership
 website: 
 email: 
-twitter-url: facebook-url: 
+twitter-url: 
+facebook-url: 
 start: April
 end: October
 award: £8650
@@ -23,7 +24,11 @@ We want to deliver a project in Merkinch which supports local people living in p
 
 ## Project milestones
 
-im at royal concert hall learning git hub
+April 2015 - Produced and circulated flyers and posters for the project, promoting it to the local community and to our partners. This was done by email, an article in the local newsletter, handing out flyers to locals (including our current service user in other programmes), leaving flyers in local shops and businesses, taking information to networking events and putting posters in windows in the local area. Information also circulated on our Facebook and Twitter pages.
+April 2015 - Experienced sessional worker recruited and venue hired. Stationery requirements and other resources purchased. 
+April 2015 - Sixteen people signed up for the project, mostly on a self-referal basis. 
+20/04/15 - First workshop session delivered by the sessional worker.
+May 2015 - Workshops delivered for seven hours per week. Referrals starting to be recieved from Job Centre Plus. 
 
 ## Evaluation
 
